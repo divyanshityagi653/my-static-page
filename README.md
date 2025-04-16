@@ -4,7 +4,7 @@ This is a simple and responsive static website created as part of **Task 6** for
 
 ## 🚀 Live Website
 
-👉 [Click here to view the live website](https://divyanshityagi653.github.io)
+👉 [Click here to view the live website](https://divyanshityagi653.github.io/my-static-page/)
 
 ## 📁 Project Structure
 
